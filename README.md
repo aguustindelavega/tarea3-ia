@@ -1,9 +1,11 @@
 # Tarea 3 de Inteligencia Artificial
+
 El objetivo es entender conceptos y técnicas básicas de procesamiento de lenguaje natural
 utilizando representaciones basadas en embeddings.
 
 ## Tareas
-- [ ] Cargar la colección de resúmenes (corpus) disponibles en Webcursos y convertirlos en un corpus.
+
+- [x] Cargar la colección de resúmenes (corpus) disponibles en Webcursos y convertirlos en un corpus.
 - [ ] Limpiar el corpus (i.e., eliminar stopwords, lematizar)
 - [ ] Utilizar _Word2Vec_ para entrenar un modelo vectorial para el corpus previo.
 - [ ] Solicitar una consulta al usuario.
